@@ -1,4 +1,4 @@
-# 🚨 SDM SOS Alert System
+# 🚨  SOS Alert System
 
 A Raspberry Pi-based emergency SOS device that triggers alerts via **Email** and **Telegram** with real-time GPS location when a physical button is pressed.
 
@@ -77,7 +77,7 @@ The system arms itself immediately and waits for the SOS button to be pressed.
 ## 📁 Project Structure
 
 ```
-sdm_sos_project/
+sos_alert_device/
 │
 ├── sosv10_fixed.py      # Main application script
 └── README.md            # Project documentation
